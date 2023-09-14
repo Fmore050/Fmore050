@@ -1,16 +1,19 @@
-### Hi there 👋
+# Fernando Moreno - Finance major student
 
-<!--
-**Fmore050/Fmore050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :computer:
 
-Here are some ideas to get you started:
+- **Rice Company La Expansion** – Accounting Assistant
+- **Rice Company Ivanna** – Accounting Assistant 
+- **Rice Company Ivanna** – Desk Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact 
+
+I broke my wrist to save my soccer team from losing ⚽
+
+## Projects
+
+- [x] Livrar - Competitive project that aimed to create a business model inspired by Uber Eats and Door Dash, specifically targeting the fitness sector.
+
+## Connect with Me :handshake:
+
+Here is my [LinkedIn](https://www.linkedin.com/in/fernando-jair-moreno-lecaro-b557a6254) if you want to connect :smiley:
